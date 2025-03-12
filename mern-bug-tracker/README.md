@@ -27,5 +27,3 @@
    ```
 
 ---
-
-This code provides a fully functional bug tracker with testing and debugging capabilities. Let me know if you need further clarifications! 🐞🔍
